@@ -1,4 +1,4 @@
-# Stream Platform Sales Analysis & Optimization Using PySpark
+# Steam Platform Sales Analysis & Optimization Using PySpark
 
 This project leverages **PySpark** to analyze the sales performance of games on the **Steam** platform and build a recommendation model based on game features and user engagement. By handling and processing large datasets with PySpark's distributed computing capabilities, the project explores insights into game success, popularity trends, and key performance factors to optimize recommendations and marketing strategies.
 
